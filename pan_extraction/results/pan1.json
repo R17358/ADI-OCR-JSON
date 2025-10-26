@@ -1,0 +1,752 @@
+{
+	"status": "succeeded",
+	"createdDateTime": "2025-10-25T11:09:42Z",
+	"lastUpdatedDateTime": "2025-10-25T11:09:42Z",
+	"analyzeResult": {
+		"apiVersion": "2024-11-30",
+		"modelId": "prebuilt-read",
+		"stringIndexType": "utf16CodeUnit",
+		"content": "आयकर विभाग\nINCOME TAX DEPARTMENT\nभारत सरकार GOVT. OF INDIA\nRAHUL SHARMA\nRAMESH SHARMA\n13/03/1982 Permanent Account Number CBYPS5856B\nSignature",
+		"pages": [
+			{
+				"pageNumber": 1,
+				"angle": 1.7623909711837769,
+				"width": 416,
+				"height": 258,
+				"unit": "pixel",
+				"words": [
+					{
+						"content": "आयकर",
+						"polygon": [
+							15,
+							0,
+							103,
+							0,
+							102,
+							22,
+							14,
+							18
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 0,
+							"length": 4
+						}
+					},
+					{
+						"content": "विभाग",
+						"polygon": [
+							117,
+							0,
+							185,
+							0,
+							184,
+							25,
+							117,
+							22
+						],
+						"confidence": 0.977,
+						"span": {
+							"offset": 5,
+							"length": 5
+						}
+					},
+					{
+						"content": "INCOME",
+						"polygon": [
+							13,
+							28,
+							63,
+							30,
+							62,
+							50,
+							12,
+							49
+						],
+						"confidence": 0.935,
+						"span": {
+							"offset": 11,
+							"length": 6
+						}
+					},
+					{
+						"content": "TAX",
+						"polygon": [
+							67,
+							30,
+							90,
+							31,
+							89,
+							51,
+							66,
+							51
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 18,
+							"length": 3
+						}
+					},
+					{
+						"content": "DEPARTMENT",
+						"polygon": [
+							94,
+							31,
+							183,
+							33,
+							183,
+							58,
+							93,
+							52
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 22,
+							"length": 10
+						}
+					},
+					{
+						"content": "भारत",
+						"polygon": [
+							274,
+							5,
+							330,
+							8,
+							329,
+							33,
+							273,
+							31
+						],
+						"confidence": 0.987,
+						"span": {
+							"offset": 33,
+							"length": 4
+						}
+					},
+					{
+						"content": "सरकार",
+						"polygon": [
+							343,
+							9,
+							415,
+							13,
+							415,
+							37,
+							343,
+							34
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 38,
+							"length": 5
+						}
+					},
+					{
+						"content": "GOVT.",
+						"polygon": [
+							274,
+							36,
+							327,
+							39,
+							326,
+							63,
+							273,
+							60
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 44,
+							"length": 5
+						}
+					},
+					{
+						"content": "OF",
+						"polygon": [
+							332,
+							39,
+							353,
+							40,
+							351,
+							64,
+							331,
+							63
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 50,
+							"length": 2
+						}
+					},
+					{
+						"content": "INDIA",
+						"polygon": [
+							357,
+							40,
+							413,
+							43,
+							412,
+							67,
+							356,
+							64
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 53,
+							"length": 5
+						}
+					},
+					{
+						"content": "RAHUL",
+						"polygon": [
+							22,
+							70,
+							73,
+							72,
+							72,
+							86,
+							22,
+							84
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 59,
+							"length": 5
+						}
+					},
+					{
+						"content": "SHARMA",
+						"polygon": [
+							77,
+							72,
+							140,
+							74,
+							139,
+							89,
+							76,
+							86
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 65,
+							"length": 6
+						}
+					},
+					{
+						"content": "RAMESH",
+						"polygon": [
+							21,
+							99,
+							83,
+							101,
+							82,
+							115,
+							20,
+							114
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 72,
+							"length": 6
+						}
+					},
+					{
+						"content": "SHARMA",
+						"polygon": [
+							88,
+							102,
+							151,
+							103,
+							150,
+							118,
+							87,
+							115
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 79,
+							"length": 6
+						}
+					},
+					{
+						"content": "13/03/1982",
+						"polygon": [
+							19,
+							129,
+							94,
+							132,
+							94,
+							147,
+							19,
+							144
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 86,
+							"length": 10
+						}
+					},
+					{
+						"content": "Permanent",
+						"polygon": [
+							5,
+							146,
+							69,
+							148,
+							68,
+							162,
+							5,
+							160
+						],
+						"confidence": 0.977,
+						"span": {
+							"offset": 97,
+							"length": 9
+						}
+					},
+					{
+						"content": "Account",
+						"polygon": [
+							72,
+							148,
+							117,
+							149,
+							116,
+							163,
+							71,
+							162
+						],
+						"confidence": 0.989,
+						"span": {
+							"offset": 107,
+							"length": 7
+						}
+					},
+					{
+						"content": "Number",
+						"polygon": [
+							121,
+							149,
+							167,
+							150,
+							167,
+							165,
+							120,
+							163
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 115,
+							"length": 6
+						}
+					},
+					{
+						"content": "CBYPS5856B",
+						"polygon": [
+							18,
+							160,
+							133,
+							163,
+							133,
+							180,
+							18,
+							177
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 122,
+							"length": 10
+						}
+					},
+					{
+						"content": "Signature",
+						"polygon": [
+							0,
+							230,
+							59,
+							232,
+							59,
+							246,
+							0,
+							246
+						],
+						"confidence": 0.977,
+						"span": {
+							"offset": 133,
+							"length": 9
+						}
+					}
+				],
+				"lines": [
+					{
+						"content": "आयकर विभाग",
+						"polygon": [
+							14,
+							0,
+							184,
+							0,
+							183,
+							24,
+							14,
+							21
+						],
+						"spans": [
+							{
+								"offset": 0,
+								"length": 10
+							}
+						]
+					},
+					{
+						"content": "INCOME TAX DEPARTMENT",
+						"polygon": [
+							12,
+							27,
+							182,
+							33,
+							182,
+							57,
+							11,
+							50
+						],
+						"spans": [
+							{
+								"offset": 11,
+								"length": 21
+							}
+						]
+					},
+					{
+						"content": "भारत सरकार",
+						"polygon": [
+							274,
+							5,
+							415,
+							12,
+							414,
+							37,
+							273,
+							30
+						],
+						"spans": [
+							{
+								"offset": 33,
+								"length": 10
+							}
+						]
+					},
+					{
+						"content": "GOVT. OF INDIA",
+						"polygon": [
+							274,
+							36,
+							412,
+							42,
+							410,
+							66,
+							273,
+							60
+						],
+						"spans": [
+							{
+								"offset": 44,
+								"length": 14
+							}
+						]
+					},
+					{
+						"content": "RAHUL SHARMA",
+						"polygon": [
+							22,
+							70,
+							139,
+							73,
+							138,
+							88,
+							22,
+							84
+						],
+						"spans": [
+							{
+								"offset": 59,
+								"length": 12
+							}
+						]
+					},
+					{
+						"content": "RAMESH SHARMA",
+						"polygon": [
+							20,
+							99,
+							150,
+							103,
+							150,
+							117,
+							20,
+							113
+						],
+						"spans": [
+							{
+								"offset": 72,
+								"length": 13
+							}
+						]
+					},
+					{
+						"content": "13/03/1982",
+						"polygon": [
+							19,
+							129,
+							93,
+							131,
+							93,
+							146,
+							18,
+							144
+						],
+						"spans": [
+							{
+								"offset": 86,
+								"length": 10
+							}
+						]
+					},
+					{
+						"content": "Permanent Account Number",
+						"polygon": [
+							5,
+							145,
+							166,
+							150,
+							166,
+							164,
+							4,
+							159
+						],
+						"spans": [
+							{
+								"offset": 97,
+								"length": 24
+							}
+						]
+					},
+					{
+						"content": "CBYPS5856B",
+						"polygon": [
+							17,
+							159,
+							133,
+							162,
+							132,
+							180,
+							17,
+							176
+						],
+						"spans": [
+							{
+								"offset": 122,
+								"length": 10
+							}
+						]
+					},
+					{
+						"content": "Signature",
+						"polygon": [
+							0,
+							230,
+							58,
+							230,
+							58,
+							246,
+							0,
+							245
+						],
+						"spans": [
+							{
+								"offset": 133,
+								"length": 9
+							}
+						]
+					}
+				],
+				"spans": [
+					{
+						"offset": 0,
+						"length": 142
+					}
+				]
+			}
+		],
+		"paragraphs": [
+			{
+				"spans": [
+					{
+						"offset": 0,
+						"length": 10
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							14,
+							0,
+							184,
+							0,
+							184,
+							24,
+							14,
+							24
+						]
+					}
+				],
+				"content": "आयकर विभाग"
+			},
+			{
+				"spans": [
+					{
+						"offset": 11,
+						"length": 21
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							12,
+							26,
+							183,
+							33,
+							182,
+							57,
+							11,
+							50
+						]
+					}
+				],
+				"content": "INCOME TAX DEPARTMENT"
+			},
+			{
+				"spans": [
+					{
+						"offset": 33,
+						"length": 25
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							274,
+							5,
+							415,
+							11,
+							413,
+							66,
+							272,
+							60
+						]
+					}
+				],
+				"content": "भारत सरकार GOVT. OF INDIA"
+			},
+			{
+				"spans": [
+					{
+						"offset": 59,
+						"length": 12
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							22,
+							70,
+							139,
+							73,
+							139,
+							88,
+							22,
+							85
+						]
+					}
+				],
+				"content": "RAHUL SHARMA"
+			},
+			{
+				"spans": [
+					{
+						"offset": 72,
+						"length": 13
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							20,
+							99,
+							150,
+							103,
+							150,
+							117,
+							20,
+							113
+						]
+					}
+				],
+				"content": "RAMESH SHARMA"
+			},
+			{
+				"spans": [
+					{
+						"offset": 86,
+						"length": 46
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							5,
+							128,
+							167,
+							134,
+							165,
+							181,
+							3,
+							176
+						]
+					}
+				],
+				"content": "13/03/1982 Permanent Account Number CBYPS5856B"
+			},
+			{
+				"spans": [
+					{
+						"offset": 133,
+						"length": 9
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							0,
+							230,
+							58,
+							230,
+							58,
+							246,
+							0,
+							246
+						]
+					}
+				],
+				"content": "Signature"
+			}
+		],
+		"styles": [],
+		"contentFormat": "text"
+	}
+}

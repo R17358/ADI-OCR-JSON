@@ -1,0 +1,982 @@
+{
+	"status": "succeeded",
+	"createdDateTime": "2025-10-25T11:22:35Z",
+	"lastUpdatedDateTime": "2025-10-25T11:22:36Z",
+	"analyzeResult": {
+		"apiVersion": "2024-11-30",
+		"modelId": "prebuilt-read",
+		"stringIndexType": "utf16CodeUnit",
+		"content": "आयकर विभाग\nINCOME TAX DEPARTMENT MEHUL PRAVINBHAI KACHA\nPRAVINBHAI MOHANBHAI KACHA\n03/12/1995 Permanent Account Number\nELXPK0225D\nMahul\nSignature\nभारत सरकार GOVT. OF INDIA\nसरकार\n08072016",
+		"pages": [
+			{
+				"pageNumber": 1,
+				"angle": 0,
+				"width": 1260,
+				"height": 791,
+				"unit": "pixel",
+				"words": [
+					{
+						"content": "आयकर",
+						"polygon": [
+							32,
+							44,
+							293,
+							34,
+							294,
+							105,
+							32,
+							100
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 0,
+							"length": 4
+						}
+					},
+					{
+						"content": "विभाग",
+						"polygon": [
+							341,
+							32,
+							537,
+							29,
+							537,
+							106,
+							342,
+							106
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 5,
+							"length": 5
+						}
+					},
+					{
+						"content": "INCOME",
+						"polygon": [
+							30,
+							133,
+							190,
+							132,
+							189,
+							183,
+							28,
+							183
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 11,
+							"length": 6
+						}
+					},
+					{
+						"content": "TAX",
+						"polygon": [
+							200,
+							132,
+							267,
+							131,
+							266,
+							183,
+							199,
+							183
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 18,
+							"length": 3
+						}
+					},
+					{
+						"content": "DEPARTMENT",
+						"polygon": [
+							277,
+							131,
+							536,
+							134,
+							536,
+							183,
+							276,
+							183
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 22,
+							"length": 10
+						}
+					},
+					{
+						"content": "MEHUL",
+						"polygon": [
+							53,
+							217,
+							206,
+							216,
+							205,
+							262,
+							51,
+							261
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 33,
+							"length": 5
+						}
+					},
+					{
+						"content": "PRAVINBHAI",
+						"polygon": [
+							218,
+							216,
+							472,
+							217,
+							472,
+							262,
+							216,
+							262
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 39,
+							"length": 10
+						}
+					},
+					{
+						"content": "KACHA",
+						"polygon": [
+							488,
+							217,
+							635,
+							219,
+							635,
+							261,
+							488,
+							262
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 50,
+							"length": 5
+						}
+					},
+					{
+						"content": "PRAVINBHAI",
+						"polygon": [
+							55,
+							324,
+							306,
+							324,
+							306,
+							368,
+							54,
+							368
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 56,
+							"length": 10
+						}
+					},
+					{
+						"content": "MOHANBHAI",
+						"polygon": [
+							321,
+							324,
+							570,
+							325,
+							570,
+							368,
+							321,
+							368
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 67,
+							"length": 9
+						}
+					},
+					{
+						"content": "KACHA",
+						"polygon": [
+							583,
+							325,
+							728,
+							326,
+							728,
+							367,
+							583,
+							368
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 77,
+							"length": 5
+						}
+					},
+					{
+						"content": "03/12/1995",
+						"polygon": [
+							53,
+							432,
+							279,
+							433,
+							279,
+							477,
+							53,
+							478
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 83,
+							"length": 10
+						}
+					},
+					{
+						"content": "Permanent",
+						"polygon": [
+							55,
+							486,
+							227,
+							485,
+							226,
+							522,
+							54,
+							521
+						],
+						"confidence": 0.988,
+						"span": {
+							"offset": 94,
+							"length": 9
+						}
+					},
+					{
+						"content": "Account",
+						"polygon": [
+							236,
+							485,
+							366,
+							486,
+							365,
+							522,
+							235,
+							522
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 104,
+							"length": 7
+						}
+					},
+					{
+						"content": "Number",
+						"polygon": [
+							375,
+							486,
+							500,
+							488,
+							500,
+							520,
+							374,
+							522
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 112,
+							"length": 6
+						}
+					},
+					{
+						"content": "ELXPK0225D",
+						"polygon": [
+							52,
+							541,
+							361,
+							543,
+							361,
+							586,
+							52,
+							587
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 119,
+							"length": 10
+						}
+					},
+					{
+						"content": "Mahul",
+						"polygon": [
+							88,
+							643,
+							214,
+							623,
+							218,
+							666,
+							99,
+							688
+						],
+						"confidence": 0.62,
+						"span": {
+							"offset": 130,
+							"length": 5
+						}
+					},
+					{
+						"content": "Signature",
+						"polygon": [
+							56,
+							724,
+							217,
+							725,
+							217,
+							760,
+							55,
+							761
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 136,
+							"length": 9
+						}
+					},
+					{
+						"content": "भारत",
+						"polygon": [
+							789,
+							41,
+							961,
+							38,
+							960,
+							106,
+							787,
+							103
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 146,
+							"length": 4
+						}
+					},
+					{
+						"content": "सरकार",
+						"polygon": [
+							1008,
+							38,
+							1226,
+							41,
+							1226,
+							107,
+							1007,
+							107
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 151,
+							"length": 5
+						}
+					},
+					{
+						"content": "GOVT.",
+						"polygon": [
+							803,
+							134,
+							961,
+							132,
+							960,
+							181,
+							802,
+							183
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 157,
+							"length": 5
+						}
+					},
+					{
+						"content": "OF",
+						"polygon": [
+							977,
+							132,
+							1048,
+							131,
+							1047,
+							181,
+							976,
+							181
+						],
+						"confidence": 0.999,
+						"span": {
+							"offset": 163,
+							"length": 2
+						}
+					},
+					{
+						"content": "INDIA",
+						"polygon": [
+							1059,
+							131,
+							1218,
+							132,
+							1218,
+							183,
+							1058,
+							181
+						],
+						"confidence": 0.99,
+						"span": {
+							"offset": 166,
+							"length": 5
+						}
+					},
+					{
+						"content": "सरकार",
+						"polygon": [
+							980,
+							328,
+							1102,
+							328,
+							1102,
+							371,
+							980,
+							371
+						],
+						"confidence": 0.084,
+						"span": {
+							"offset": 172,
+							"length": 5
+						}
+					},
+					{
+						"content": "08072016",
+						"polygon": [
+							1195,
+							752,
+							1193,
+							609,
+							1222,
+							609,
+							1223,
+							751
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 178,
+							"length": 8
+						}
+					}
+				],
+				"lines": [
+					{
+						"content": "आयकर विभाग",
+						"polygon": [
+							32,
+							33,
+							535,
+							28,
+							536,
+							105,
+							32,
+							106
+						],
+						"spans": [
+							{
+								"offset": 0,
+								"length": 10
+							}
+						]
+					},
+					{
+						"content": "INCOME TAX DEPARTMENT",
+						"polygon": [
+							28,
+							131,
+							535,
+							131,
+							535,
+							182,
+							28,
+							182
+						],
+						"spans": [
+							{
+								"offset": 11,
+								"length": 21
+							}
+						]
+					},
+					{
+						"content": "MEHUL PRAVINBHAI KACHA",
+						"polygon": [
+							51,
+							216,
+							634,
+							216,
+							634,
+							261,
+							51,
+							260
+						],
+						"spans": [
+							{
+								"offset": 33,
+								"length": 22
+							}
+						]
+					},
+					{
+						"content": "PRAVINBHAI MOHANBHAI KACHA",
+						"polygon": [
+							54,
+							323,
+							727,
+							324,
+							727,
+							367,
+							54,
+							367
+						],
+						"spans": [
+							{
+								"offset": 56,
+								"length": 26
+							}
+						]
+					},
+					{
+						"content": "03/12/1995",
+						"polygon": [
+							53,
+							431,
+							278,
+							431,
+							278,
+							477,
+							53,
+							477
+						],
+						"spans": [
+							{
+								"offset": 83,
+								"length": 10
+							}
+						]
+					},
+					{
+						"content": "Permanent Account Number",
+						"polygon": [
+							54,
+							485,
+							499,
+							485,
+							499,
+							521,
+							54,
+							521
+						],
+						"spans": [
+							{
+								"offset": 94,
+								"length": 24
+							}
+						]
+					},
+					{
+						"content": "ELXPK0225D",
+						"polygon": [
+							52,
+							540,
+							360,
+							541,
+							360,
+							587,
+							52,
+							586
+						],
+						"spans": [
+							{
+								"offset": 119,
+								"length": 10
+							}
+						]
+					},
+					{
+						"content": "Mahul",
+						"polygon": [
+							71,
+							645,
+							212,
+							623,
+							218,
+							667,
+							79,
+							691
+						],
+						"spans": [
+							{
+								"offset": 130,
+								"length": 5
+							}
+						]
+					},
+					{
+						"content": "Signature",
+						"polygon": [
+							54,
+							724,
+							216,
+							724,
+							216,
+							760,
+							54,
+							760
+						],
+						"spans": [
+							{
+								"offset": 136,
+								"length": 9
+							}
+						]
+					},
+					{
+						"content": "भारत सरकार",
+						"polygon": [
+							786,
+							38,
+							1226,
+							38,
+							1225,
+							107,
+							786,
+							105
+						],
+						"spans": [
+							{
+								"offset": 146,
+								"length": 10
+							}
+						]
+					},
+					{
+						"content": "GOVT. OF INDIA",
+						"polygon": [
+							801,
+							132,
+							1217,
+							131,
+							1218,
+							181,
+							801,
+							183
+						],
+						"spans": [
+							{
+								"offset": 157,
+								"length": 14
+							}
+						]
+					},
+					{
+						"content": "सरकार",
+						"polygon": [
+							980,
+							328,
+							1100,
+							328,
+							1101,
+							371,
+							980,
+							371
+						],
+						"spans": [
+							{
+								"offset": 172,
+								"length": 5
+							}
+						]
+					},
+					{
+						"content": "08072016",
+						"polygon": [
+							1194,
+							751,
+							1193,
+							609,
+							1221,
+							609,
+							1223,
+							751
+						],
+						"spans": [
+							{
+								"offset": 178,
+								"length": 8
+							}
+						]
+					}
+				],
+				"spans": [
+					{
+						"offset": 0,
+						"length": 186
+					}
+				]
+			}
+		],
+		"paragraphs": [
+			{
+				"spans": [
+					{
+						"offset": 0,
+						"length": 10
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							32,
+							29,
+							536,
+							28,
+							536,
+							105,
+							32,
+							106
+						]
+					}
+				],
+				"content": "आयकर विभाग"
+			},
+			{
+				"spans": [
+					{
+						"offset": 11,
+						"length": 44
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							28,
+							130,
+							634,
+							131,
+							634,
+							261,
+							28,
+							260
+						]
+					}
+				],
+				"content": "INCOME TAX DEPARTMENT MEHUL PRAVINBHAI KACHA"
+			},
+			{
+				"spans": [
+					{
+						"offset": 56,
+						"length": 26
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							54,
+							323,
+							727,
+							323,
+							727,
+							367,
+							54,
+							367
+						]
+					}
+				],
+				"content": "PRAVINBHAI MOHANBHAI KACHA"
+			},
+			{
+				"spans": [
+					{
+						"offset": 83,
+						"length": 35
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							53,
+							431,
+							499,
+							431,
+							499,
+							521,
+							53,
+							521
+						]
+					}
+				],
+				"content": "03/12/1995 Permanent Account Number"
+			},
+			{
+				"spans": [
+					{
+						"offset": 119,
+						"length": 10
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							52,
+							540,
+							360,
+							541,
+							360,
+							587,
+							52,
+							586
+						]
+					}
+				],
+				"content": "ELXPK0225D"
+			},
+			{
+				"spans": [
+					{
+						"offset": 130,
+						"length": 5
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							71,
+							645,
+							212,
+							623,
+							219,
+							669,
+							78,
+							691
+						]
+					}
+				],
+				"content": "Mahul"
+			},
+			{
+				"spans": [
+					{
+						"offset": 136,
+						"length": 9
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							54,
+							724,
+							216,
+							724,
+							216,
+							760,
+							54,
+							760
+						]
+					}
+				],
+				"content": "Signature"
+			},
+			{
+				"spans": [
+					{
+						"offset": 146,
+						"length": 25
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							786,
+							38,
+							1226,
+							38,
+							1226,
+							183,
+							786,
+							183
+						]
+					}
+				],
+				"content": "भारत सरकार GOVT. OF INDIA"
+			},
+			{
+				"spans": [
+					{
+						"offset": 172,
+						"length": 5
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							980,
+							328,
+							1101,
+							328,
+							1101,
+							371,
+							980,
+							371
+						]
+					}
+				],
+				"content": "सरकार"
+			},
+			{
+				"spans": [
+					{
+						"offset": 178,
+						"length": 8
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							1193,
+							609,
+							1222,
+							609,
+							1223,
+							751,
+							1194,
+							751
+						]
+					}
+				],
+				"content": "08072016"
+			}
+		],
+		"styles": [
+			{
+				"confidence": 1,
+				"spans": [
+					{
+						"offset": 130,
+						"length": 5
+					}
+				],
+				"isHandwritten": true
+			}
+		],
+		"contentFormat": "text"
+	}
+}

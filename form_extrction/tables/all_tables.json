@@ -1,0 +1,160 @@
+{
+    "file 0": [
+        [
+            {
+                "Processing Fees": "17414",
+                "Documentation Charges": "590",
+                "Stamp Duty/Franking Charges": "NULL"
+            }
+        ],
+        [
+            {
+                "*Insurance Premium (Payable to Insurer)": "1. HDFC",
+                "Premium (In Rs.)": "102974"
+            },
+            {
+                "*Insurance Premium (Payable to Insurer)": "2. Kotak PI",
+                "Premium (In Rs.)": "4493"
+            },
+            {
+                "*Insurance Premium (Payable to Insurer)": "3. Kotak Group health",
+                "Premium (In Rs.)": "16468"
+            }
+        ],
+        [
+            {
+                "Tick as applicable": ":selected: Cheque",
+                "Beneficiary Name": "manappuram Finance Limited",
+                "Bank A/c details": "Name of Bank: Account No .:",
+                "Amount (in Rs.)": "3,11,000"
+            },
+            {
+                "Tick as applicable": ":unselected: Pay Order",
+                "Beneficiary Name": "NULL",
+                "Bank A/c details": "Branch:",
+                "Amount (in Rs.)": "NULL"
+            },
+            {
+                "Tick as applicable": ":unselected: Fund Transfer",
+                "Beneficiary Name": "NULL",
+                "Bank A/c details": "A/c Type: IFSC Code:",
+                "Amount (in Rs.)": "NULL"
+            },
+            {
+                "Tick as applicable": ":unselected: Cheque",
+                "Beneficiary Name": "NULL",
+                "Bank A/c details": "Name of Bank: Account No .:",
+                "Amount (in Rs.)": "NULL"
+            },
+            {
+                "Tick as applicable": ":unselected: Pay Order",
+                "Beneficiary Name": "NULL",
+                "Bank A/c details": "Branch:",
+                "Amount (in Rs.)": "NULL"
+            },
+            {
+                "Tick as applicable": ":unselected: Fund Transfer",
+                "Beneficiary Name": "NULL",
+                "Bank A/c details": "A/c Type: IFSC Code:",
+                "Amount (in Rs.)": "NULL"
+            }
+        ],
+        [
+            {
+                "Borrower(s) Name": "SANKARAIAH TANDU",
+                "Borrower(s) Signature": "S7 T.5055 all"
+            },
+            {
+                "Borrower(s) Name": "NAGAMMA TANDU",
+                "Borrower(s) Signature": "S7 T-20 Már"
+            },
+            {
+                "Borrower(s) Name": "NULL",
+                "Borrower(s) Signature": "S7"
+            },
+            {
+                "Borrower(s) Name": "NULL",
+                "Borrower(s) Signature": "S7"
+            }
+        ]
+    ],
+    "file 1": [
+        [
+            {
+                "Processing Fees": "44,072/- 47022",
+                "Documentation Charges": "590/-",
+                "Stamp Duty/Franking Charges": "NULL"
+            }
+        ],
+        [
+            {
+                "*Insurance Premium (Payable to Insurer)": "1. HDFC Life",
+                "Premium (In Rs.)": "43,7521-"
+            },
+            {
+                "*Insurance Premium (Payable to Insurer)": "2. Kotal GH",
+                "Premium (In Rs.)": "18583/-"
+            },
+            {
+                "*Insurance Premium (Payable to Insurer)": "Kotak PI 3.",
+                "Premium (In Rs.)": "5095/-"
+            }
+        ],
+        [
+            {
+                "Tick as applicable": ":unselected: Cheque",
+                "Beneficiary Name": "Kollusi Naresh",
+                "Bank A/c details": "Name of Bank: HDFC Bank Account No .: 50100588131308",
+                "Amount (in Rs.)": "18,67,430/-"
+            },
+            {
+                "Tick as applicable": ":unselected: Pay Order",
+                "Beneficiary Name": "NULL",
+                "Bank A/c details": "Branch: Yadagirigutta A/c Type: Savings IFSC Code: HDFC 0005241",
+                "Amount (in Rs.)": "NULL"
+            },
+            {
+                "Tick as applicable": "Fund Transfer :selected:",
+                "Beneficiary Name": "NULL",
+                "Bank A/c details": "NULL",
+                "Amount (in Rs.)": "NULL"
+            },
+            {
+                "Tick as applicable": ":unselected: Cheque",
+                "Beneficiary Name": "NULL",
+                "Bank A/c details": "Name of Bank: Account No .: Branch: A/c Type: IFSC Code:",
+                "Amount (in Rs.)": "NULL"
+            },
+            {
+                "Tick as applicable": ":unselected: Pay Order",
+                "Beneficiary Name": "NULL",
+                "Bank A/c details": "NULL",
+                "Amount (in Rs.)": "NULL"
+            },
+            {
+                "Tick as applicable": ":unselected: Fund Transfer",
+                "Beneficiary Name": "NULL",
+                "Bank A/c details": "NULL",
+                "Amount (in Rs.)": "NULL"
+            }
+        ],
+        [
+            {
+                "Borrower(s) Name": "K. Naresh",
+                "Borrower(s) Signature": "S7"
+            },
+            {
+                "Borrower(s) Name": "R. Sowjanya",
+                "Borrower(s) Signature": "S7 KNOWSS"
+            },
+            {
+                "Borrower(s) Name": "NULL",
+                "Borrower(s) Signature": "S7"
+            },
+            {
+                "Borrower(s) Name": "NULL",
+                "Borrower(s) Signature": "S7"
+            }
+        ]
+    ]
+}
